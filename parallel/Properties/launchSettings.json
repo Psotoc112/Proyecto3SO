@@ -1,0 +1,20 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "-m": {
+      "commandName": "Project",
+      "commandLineArgs": "-m\r\n-folder C:\\Users\\psoto\\Desktop\\VideosYT\r\n"
+    },
+    "-s": {
+      "commandName": "Project",
+      "commandLineArgs": "-s\r\n-folder C:\\Users\\psoto\\Desktop\\VideosYT\r\n"
+    },
+    "-st": {
+      "commandName": "Project",
+      "commandLineArgs": "-st\r\n-folder C:\\Users\\psoto\\Desktop\\VideosYT\r\n"
+    }
+  }
+}
